@@ -61,10 +61,10 @@ A list of available plugins are available at https://build.phonegap.com/docs/plu
     <!-- Define app icon for each platform. -->
 
     
-    <icon gap:density="ldpi" gap:platform="android" src="icon_36.jpg" />
-    <icon gap:density="mdpi" gap:platform="android" src="icon_48.jpg" />
-    <icon gap:density="hdpi" gap:platform="android" src="icon_72.jpg" />
-    <icon gap:density="xhdpi" gap:platform="android" src="icon_96.jpg" />
+    <icon gap:density="mdpi" gap:platform="android" src="icon_48.png" />
+    <icon gap:density="hdpi" gap:platform="android" src="icon_72.png" />
+    <icon gap:density="xhdpi" gap:platform="android" src="icon_96.png" />
+    <icon gap:density="xxhdpi" gap:platform="android" src="icon_144.png" />
 
     
     
